@@ -1,0 +1,39 @@
+@media (max-width:767px) {
+	.navbar-ex1-collapse>ul{
+		float: none !important;
+		text-align: center;
+	}
+	.cust-nav{
+		margin-bottom: 50px;
+	}
+
+	.wps-con p{
+		max-width: 17em;
+	}
+	.xsfg{
+		margin-top: 27px;
+	}
+
+}
+
+@media (max-width:992px) {
+	.wps .title{
+		margin-bottom: 70px;
+	}
+
+
+	.wps-con img{
+		margin: 0 auto;
+		margin-top: 15px;
+	}
+
+	.wps-con h3, p, h4{
+		text-align: center;
+	}
+
+	.wps-con p{
+		padding-top: 15px;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
